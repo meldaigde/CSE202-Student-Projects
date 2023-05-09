@@ -38,3 +38,4 @@ Do not `git push` directly to this template repository. Only do pull requests.
 4.  Report: Write a short report in markdown format (this document format) or plain text format in your directory describing your functions and how they work. 
     The report should include a discussion of the functional programming techniques used to implement the functions, as well as any challenges or difficulties they faced.
     **Each function is 5 points**.
+
